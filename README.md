@@ -10,7 +10,7 @@ Repositorio correspondiente al encargo semanal de la asignatura **Consulta de Ba
 ---
 
 ### Contenido del Repositorio
-* `Encargo_Semanal_S5.sql`: Script SQL ejecutado en Oracle SQL Developer / Oracle Cloud que contiene la solución completa a los requerimientos solicitados.
+* `PRY2205_Exp2_S5_Actividad.sql`: Script SQL ejecutado en Oracle SQL Developer / Oracle Cloud que contiene la solución completa a los requerimientos solicitados.
 
 ---
 
